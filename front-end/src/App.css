@@ -1,0 +1,23 @@
+body {
+  color: white;
+  background-color: black;
+  text-align: center;
+}
+.App {
+  border: .4rem double white;
+}
+button:hover{
+  background-color: gray;
+}
+button:focus{
+  outline: 0;
+  background-color: black;
+  color: white;
+}
+a:hover{
+  background-color: gray;
+}
+a:focus{
+  background-color: black;
+  color: white;
+}

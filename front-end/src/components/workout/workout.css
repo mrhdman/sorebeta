@@ -1,0 +1,40 @@
+.TITLE {
+    border-bottom: .2rem double white;
+}
+.workoutButtons {
+    display: inline-block;
+    background-color: black;
+    width: 100%;
+}
+.workoutButtons button{
+    width: 50%;
+    background-color: black;
+    color: white;
+    border: .4rem double white;
+}
+.workoutButtons button:focus{
+    background-color: yellow;
+    color: black;
+}
+.createWorkoutButtonContainer button{
+    border: .4rem double black;
+    font-size: .8rem;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 50%;
+}
+.createWorkoutTable {
+    width: 50%;
+}
+.createWorkoutTable input{
+    text-align: left;
+    font-size: 1rem;
+}
+.notInputRow {
+    background-color: lightgray;
+    color: black;
+}
+.notInputRow th{
+    font-size: 1.2rem;
+    letter-spacing: .3rem;
+}

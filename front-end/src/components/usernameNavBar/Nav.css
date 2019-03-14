@@ -1,0 +1,20 @@
+.loginOrRegister {
+    color: white;
+    font-size: 2rem;
+}
+a:link {
+    color: white;
+}
+a:visited {
+    color: white;
+}
+a:hover {
+    color: darkslategray;
+}
+a:active {
+    color: yellow;
+}
+
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
